@@ -1,0 +1,4 @@
+Inventory Management: -> Enable editing
+modals, notifications, and loading indicators.
+Implement a search functionality to quickly find orders or items.
+Add pagination to the order list and inventory list if there are many entries.
